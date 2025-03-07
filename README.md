@@ -3,7 +3,7 @@ A modern React.js portfolio showcasing projects, skills, and contact information
 
 🚀 Live Demo
 🔗 View Portfolio
-(Replace with your deployed Netlify link.)
+(https://67cb5f6f21ec7bcd02cb752b--khalil-reactfoliocom.netlify.app/)
 
 📖 About This Project
 ReactFolio is a single-page developer portfolio built with React and Vite. It features:
