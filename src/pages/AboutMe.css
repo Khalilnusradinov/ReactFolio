@@ -1,0 +1,14 @@
+.about-me {
+    background-color: #181818; /* Black */
+    color: #f8f8ff; /* Ghost White */
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #e0b0ff; /* Mountbatten Pink */
+  }
+  

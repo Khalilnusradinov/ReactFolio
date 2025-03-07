@@ -1,0 +1,23 @@
+.header {
+    background-color: #3d2c8d; /* Dark Purple */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .header h1 {
+    color: #f8f8ff; /* Ghost White */
+  }
+  
+  nav a {
+    color: #f8f8ff;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a.active {
+    border-bottom: 2px solid #e0b0ff; /* Mountbatten Pink */
+  }
+  

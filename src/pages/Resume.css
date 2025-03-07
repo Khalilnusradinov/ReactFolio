@@ -1,0 +1,33 @@
+.resume {
+    background-color: #181818; /* Black */
+    color: #f8f8ff; /* Ghost White */
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .resume-download {
+    display: inline-block;
+    margin: 1rem 0;
+    padding: 0.8rem 1.2rem;
+    background: #3d2c8d; /* Dark Purple */
+    color: #f8f8ff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  .resume-download:hover {
+    background: #e0b0ff; /* Mountbatten Pink */
+    color: #181818;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 0.5rem 0;
+    font-weight: bold;
+  }
+  

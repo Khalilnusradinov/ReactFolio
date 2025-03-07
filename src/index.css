@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #181818; /* Black */
+  color: #f8f8ff; /* Ghost White */
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #3d2c8d; /* Dark Purple */
+  padding: 1rem;
+  text-align: center;
+  color: #f8f8ff;
+}
+
+nav a {
+  color: #f8f8ff;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a.active {
+  border-bottom: 2px solid #e0b0ff; /* Mountbatten Pink */
+}
+
+footer {
+  background-color: #556b2f; /* Black Olive */
+  color: #f8f8ff;
+  text-align: center;
+  padding: 1rem;
+  margin-top: auto;
+}

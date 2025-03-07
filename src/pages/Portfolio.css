@@ -1,0 +1,13 @@
+.portfolio {
+    background-color: #3d2c8d; /* Dark Purple */
+    color: #f8f8ff; /* Ghost White */
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+  

@@ -1,0 +1,36 @@
+.contact {
+    background-color: #181818; /* Black */
+    color: #f8f8ff; /* Ghost White */
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .contact form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .contact input, .contact textarea {
+    padding: 0.8rem;
+    border: 2px solid #e0b0ff; /* Mountbatten Pink */
+    border-radius: 5px;
+    background: #3d2c8d; /* Dark Purple */
+    color: #f8f8ff;
+  }
+  
+  .contact button {
+    padding: 0.8rem;
+    border: none;
+    background: #556b2f; /* Black Olive */
+    color: #f8f8ff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .contact button:hover {
+    background: #3d2c8d; /* Dark Purple */
+  }
+  
